@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+DESCRIPTION: An app to welcome first timers
 
 ## What it does
 
-FEATURES PLACEHOLDER
+FEATURES: Welcoming first timers
 
 ## Getting started
 
